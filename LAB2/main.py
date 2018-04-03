@@ -63,12 +63,14 @@ def graf_salary(name_vac):
  ])
     plt.show()
 #main
-names_vac=['mashine learning','c++','c#','golang','php']
+if __name__ == '__main__':
+def main()
+    names_vac=['mashine learning','c++','c#','golang','php']
 #for i in names_vac:
     #print(i)
     #print(  med_sal(i) )
+    graf_salary('mashine learning')
 
-graf_salary('mashine learning')
 
 
 
